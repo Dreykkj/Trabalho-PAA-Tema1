@@ -1,18 +1,3 @@
-"""
-trabalho_base.py — Base comum do Trabalho Prático
-Contagem de Operações: Lineares, Quadráticos e Logarítmicos
-Projeto e Análise de Algoritmos — CIESA — 4º/6º período
-
-Use este arquivo em todas as equipes: ele garante que as tabelas sejam
-comparáveis entre si. Importe o que precisar no arquivo do seu tema:
-
-    from trabalho_base import mergesort, busca_binaria, teste_do_dobro, aleatorio
-
-Convenção: toda função instrumentada devolve (resultado, contagem).
-
-Rode este arquivo sozinho para ver as "assinaturas" de duas classes:
-    python trabalho_base.py
-"""
 import csv
 import math
 import random
