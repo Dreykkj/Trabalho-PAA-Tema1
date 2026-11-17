@@ -2,7 +2,7 @@
 
 Projeto e Análise de Algoritmos · CIESA · Trabalho Prático: Contagem de Operações
 
-Equipe: Andrey, Logan e Eduardo
+Equipe: Andrey, Logan, Eduardo e Ray
 
 ## **1\. Cenário e formato da entrada**
 
