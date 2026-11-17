@@ -1,2 +1,9 @@
-# Trabalho-PAA-Tema1
-Tema 1 - Grupo: Andrey, Eduardo e Logan
+Tema 1 - Matrículas duplicadas
+Grupo: Andrey, Logan, Eduardo
+
+-Arquivos
+trabalho_base.py
+tema_1.py
+medicoes.csv
+saida.txt
+relatorio.md
